@@ -19,7 +19,8 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones">Html ícones criados por Freepik - Flaticon</a>
+  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/362cbe02-aace-4b45-a81b-aeadb8288ef7" />
+</a>
   
 </a>
 </p>
