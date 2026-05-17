@@ -18,9 +18,8 @@
 
 <h2 align="center">Tecnologias e Ferramentas</h2>
 
-<p align="left">
-<a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c73e0bb0-c507-4579-9581-52dbfce07fbb" />
-  </a>
+<p align="center">
+  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c73e0bb0-c507-4579-9581-52dbfce07fbb" /></a>
 
 <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d94d21a1-f4cc-45db-a6d9-5996d732b3d6" />
 </a>
@@ -31,5 +30,4 @@
 <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" />
 </a>
 
-</a>
 </p>
