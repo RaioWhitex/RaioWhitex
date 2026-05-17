@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 Align="center">Olá, eu sou o Gustavo Steferson</h1>
 
-<!--
-**RaioWhitex/RaioWhitex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Atualmente curso Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções técnológicas eficientes e escaáveis. Ao longo da graduação, venho adquirindo experiência em lógica de programação, desenvolvimento de programação, desenvolvimento de software, moldagem e gerenciamento de banco de dados, além de fundamento de engenharia de software.</p>
 
-Here are some ideas to get you started:
+<h2>Formações Acadêmicas</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓⚡ Formado na **ETEC Jaraguá** com técnico em **Eletrotécnica**
+- 🎓📊 Estudante da **Faculdade Flamingo** no curso de **Análise e Desenvolvimento de Sistemas**
+
+<h2>Experiências</h2>
+
+- 🍽️🔥 Estágiario no **Mania de Churrasco**
+- 💼💰 Cobrador de Crédito na **Localcred**
+
