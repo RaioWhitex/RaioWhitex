@@ -19,8 +19,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones">file:///C:/Users/MJ.INFORMATICA/Downloads/html-5%20(2).png
-</a>
+  <div> Ícones feitos por <a href="https://www.magnific.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com'</a></div>
   
 </a>
 </p>
