@@ -22,9 +22,8 @@
   <a href="https://www.flaticon.com/br/icones-gratis/html" title="html icones">
     <img width="40" src="https://github.com/user-attachments/assets/c73e0bb0-c507-4579-9581-52dbfce07fbb">
   </a>
-  <a href="https://www.flaticon.com/br/icones-gratis/css" title="css icones">
-    <img width="40" src="https://github.com/user-attachments/assets/d94d21a1-f4cc-45db-a6d9-5996d732b36f">
-  </a>
+  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d94d21a1-f4cc-45db-a6d9-5996d732b3d6" />
+</a>
   <a href="https://www.flaticon.com/br/icones-gratis/javascript" title="js icones">
     <img width="40" src="https://github.com/user-attachments/assets/a16a2097-07e6-41df-b092-31b5b5740397">
   </a>
