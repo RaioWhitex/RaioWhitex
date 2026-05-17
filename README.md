@@ -19,15 +19,15 @@
 <h2 align="center">Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <a href="https://www.flaticon.com/br/icones-gratis/html" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.flaticon.com/br/icones-gratis/html" >
     <img width="40" src="https://github.com/user-attachments/assets/c73e0bb0-c507-4579-9581-52dbfce07fbb">
   </a>
-  <a href="https://www.flaticon.com/br/icones-gratis/html" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.flaticon.com/br/icones-gratis/html" >
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d94d21a1-f4cc-45db-a6d9-5996d732b3d6" />
 </a>
-  <a href="https://www.flaticon.com/br/icones-gratis/javascript" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.flaticon.com/br/icones-gratis/javascript" >
     <img width="40" src="https://github.com/user-attachments/assets/a16a2097-07e6-41df-b092-31b5b5740397">
   </a>
- <a href="https://www.flaticon.com/br/icones-gratis/html" style="text-decoration: none; display: inline-block;">
-   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" />
+ <a href="https://www.flaticon.com/br/icones-gratis/html" >
+   <img width="40" height="40" alt="image" style="display: block;" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" />
 </p>
