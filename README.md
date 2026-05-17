@@ -19,7 +19,8 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <div> Ícones feitos por <a href="https://www.magnific.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com'</a></div>
+  <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c73e0bb0-c507-4579-9581-52dbfce07fbb" /></a>
+
   
 </a>
 </p>
