@@ -16,7 +16,7 @@
 
 <p>Meu objetivo é atuar na área de tecnologia da informação, com o objetivo de desenvolver minhas habilidades técnicas, adquirir experiência prática e contribuir de forma eficiente para os resultados da empresa.</p>
 
-<h2 align="center">Ferramentas de Escritório</h2>
+<h2 align="center">Ferramentas de Escritorio</h2>
 
 <p align="center">
   <a href="https://www.flaticon.com/br/icones-gratis/html">
