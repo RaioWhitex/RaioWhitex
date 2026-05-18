@@ -7,6 +7,8 @@
 - 🎓⚡ Formado na **ETEC Jaraguá** com técnico em **Eletrotécnica**
 - 🎓📊 Estudante da **Faculdade Flamingo** no curso de **Análise e Desenvolvimento de Sistemas**
 
+<hr>
+
 <h2 align="center">Experiências</h2>
 
 - 🍽️🔥 Estágiario no **Mania de Churrasco**
