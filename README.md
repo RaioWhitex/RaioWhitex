@@ -1,4 +1,4 @@
-/*Caro*/
+Caro
 
 <h1 align="center">Olá, eu sou o Gustavo Steferson</h1>
 
