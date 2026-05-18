@@ -60,5 +60,5 @@
 
 <h2 align="center">Redes Sociais para Entrar em Contato</h2>
 
-<a href="https://www.flaticon.com/br/icones-gratis/html">
-  <img width="40" src="https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000" /></a>
+<a href="https://icons8.com/icons/set/pycharm">
+  <img width="40" src="https://img.icons8.com/?size=100&id=M486asakOqWV&format=png&color=000000" /></a>
