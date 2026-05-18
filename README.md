@@ -60,13 +60,9 @@
 
 <h2 align="center">Redes Sociais para Entrar em Contato</h2>
 <p>
-<a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"><img 
-    width="40" 
-    src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"
-    alt="Instagram"/></a>
   
-<a href="https://www.linkedin.com/in/gustavo-steferson-1896263a8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img 
-    width="40" 
-    src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"
-    alt="Instagram"/></a>
+<a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" /></a>
+  
+<a href="https://www.linkedin.com/in/gustavo-steferson-1896263a8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
+
 </p>
