@@ -80,4 +80,14 @@
   </td>
   </tr>
 
+<tr>
+  <td>
+  
+  <a href="https://wa.me/5511933914350" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" /></a>
+  </td>
+  <td>
+      <strong>(11) 93391-4350</strong>
+  </td>
+  </tr>
+
 </table>
