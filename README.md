@@ -1,4 +1,4 @@
-Caro
+<!-- Olá Mundo, e Olá caro leitor, agradeço pelo seu interesse em explorar minhas linhas de código. Cada linha nessa áraa representa meu processo de aprendizado e evolução na tecnologia. -->
 
 <h1 align="center">Olá, eu sou o Gustavo Steferson</h1>
 
