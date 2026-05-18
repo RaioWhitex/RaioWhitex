@@ -24,10 +24,11 @@
   </a>
   <a href="https://www.flaticon.com/br/icones-gratis/html">
   <img width="40" src="https://github.com/user-attachments/assets/d94d21a1-f4cc-45db-a6d9-5996d732b3d6" />
-</a>
+  </a>
   <a href="https://www.flaticon.com/br/icones-gratis/javascript">
   <img width="40" src="https://github.com/user-attachments/assets/a16a2097-07e6-41df-b092-31b5b5740397">
   </a>
  <a href="https://www.flaticon.com/br/icones-gratis/html">
  <img width="40" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" />
+ </a>
 </p>
