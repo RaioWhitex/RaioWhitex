@@ -59,7 +59,7 @@
 </p>
 
 <h2 align="center">Redes Sociais para Entrar em Contato</h2>
-
+<p>
 <a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"><img 
         width="40" 
         src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"
@@ -69,3 +69,4 @@
         width="40" 
         src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"
         alt="Instagram"/></a>
+</p>
