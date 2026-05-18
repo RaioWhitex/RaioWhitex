@@ -16,7 +16,7 @@
 
 <p>Meu objetivo é atuar na área de tecnologia da informação, com o objetivo de desenvolver minhas habilidades técnicas, adquirir experiência prática e contribuir de forma eficiente para os resultados da empresa.</p>
 
-<h2 align="center">Tecnologias de Desenvolvimento</h2>
+<h2 align="center">Tecnologias de Escritório</h2>
 
 <p align="center">
   <a href="https://www.flaticon.com/br/icones-gratis/html">
@@ -29,7 +29,7 @@
  <img width="40" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" /></a>
 </p>
 
-<h2 align="center">Ferramentas de Escritório</h2>
+<h2 align="center">Ferramentas de Desenvolvimento</h2>
 
 <p align="center">
   <a href="https://www.flaticon.com/br/icones-gratis/html">
