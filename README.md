@@ -40,6 +40,8 @@
   <img width="40" src="https://github.com/user-attachments/assets/a16a2097-07e6-41df-b092-31b5b5740397"></a>
  <a href="https://www.flaticon.com/br/icones-gratis/html">
  <img width="40" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" /></a>
+  <a href="https://www.flaticon.com/br/icones-gratis/html">
+  <img width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /></a>
  <a href="https://www.flaticon.com/br/icones-gratis/html">
   <img width="40" src="https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000" /></a>
 </p>
