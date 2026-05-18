@@ -27,7 +27,7 @@
   <img width="40" src="https://github.com/user-attachments/assets/8dea805e-fbaf-4fae-8eb2-c2f5924554f4" /></a>
   <a href="https://www.flaticon.com/br/icones-gratis/javascript">
   <img width="40" src="https://github.com/user-attachments/assets/7bdbf40e-fc51-48d9-9c44-7d7d3be1a6e0" /></a>
-  <a href="https://www.flaticon.com/br/icones-gratis/html">
+  
   <img width="40" src=https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" /></a>
 </p>
 
@@ -47,3 +47,6 @@
  <a href="https://www.flaticon.com/br/icones-gratis/html">
   <img width="40" src="https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000" /></a>
 </p>
+
+<h2 align="center">Redes Sociais para Entrar em Contato</h2>
+
