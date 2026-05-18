@@ -25,8 +25,8 @@
   <img width="40" src="https://github.com/user-attachments/assets/8dea805e-fbaf-4fae-8eb2-c2f5924554f4" /></a>
   <a href="https://www.flaticon.com/br/icones-gratis/javascript">
   <img width="40" src="https://github.com/user-attachments/assets/7bdbf40e-fc51-48d9-9c44-7d7d3be1a6e0" /></a>
- <a href="https://www.flaticon.com/br/icones-gratis/html">
-   <img width="40" src=https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" /></a>
+  <a href="https://www.flaticon.com/br/icones-gratis/html">
+  <img width="40" src=https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" /></a>
 </p>
 
 <h2 align="center">Ferramentas de Desenvolvimento</h2>
@@ -40,4 +40,6 @@
   <img width="40" src="https://github.com/user-attachments/assets/a16a2097-07e6-41df-b092-31b5b5740397"></a>
  <a href="https://www.flaticon.com/br/icones-gratis/html">
  <img width="40" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" /></a>
+ <a href="https://www.flaticon.com/br/icones-gratis/html">
+  <img width="40" src=[https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"](https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000)" /></a>
 </p>
