@@ -21,7 +21,7 @@
 <h2 align="center">Ferramentas de Escritorio</h2>
 
 <p align="center">
-  href="https://www.flaticon.com/br/icones-gratis/html"
+  <a href="https://www.flaticon.com/br/icones-gratis/html">
   <img width="40" src="https://github.com/user-attachments/assets/0e8ebbf2-9c3a-437a-9f02-d6130f93c883" /></a>
   
   <a href="https://www.flaticon.com/br/icones-gratis/html">
@@ -60,10 +60,8 @@
 
 <h2 align="center">Redes Sociais para Entrar em Contato</h2>
 
-<a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank">
-    <img 
+<a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"><img 
         width="40" 
         src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"
-        alt="Instagram"
-    />
-</a>
+        alt="Instagram"/></a>
+
