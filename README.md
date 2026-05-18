@@ -14,7 +14,7 @@
 
 <h2 align="center">Objetivos</h2>
 
-<p>Meu objetivo é atuar na área de tecnologia da informação, com o objetivo de desenvolver minhas habilidades técnicas, adquirir experiência prática e contribuir de forma eficiente para os resultados da empresa.</p>
+<p align="center">Meu objetivo é atuar na área de tecnologia da informação, com o objetivo de desenvolver minhas habilidades técnicas, adquirir experiência prática e contribuir de forma eficiente para os resultados da empresa.</p>
 
 <h2 align="center">Ferramentas de Escritorio</h2>
 
