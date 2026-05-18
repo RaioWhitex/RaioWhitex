@@ -63,7 +63,7 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"><img width="50" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" /></a>
+  <a href="https://www.instagram.com/steferson_ofc?igsh=cnIxeXVreG1xOTNq" target="_blank"> <span style="font-size:0;">📷</span> <img width="40" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" /></a>
   </td>
   <td>
       <strong>@steferson_ofc</strong>
@@ -73,7 +73,7 @@
   <tr>
   <td>
   
-  <a href="https://www.linkedin.com/in/gustavo-steferson-1896263a8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img width="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-steferson-1896263a8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
   </td>
   <td>
       <strong>Gustavo Steferson</strong>
@@ -83,7 +83,7 @@
   <tr>
   <td>
   
-  <a href="https://wa.me/5511933914350" target="_blank"><img width="50" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" /></a>
+  <a href="https://wa.me/5511933914350" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" /></a>
   </td>
   <td>
       <strong>(11) 93391-4350</strong>
@@ -93,7 +93,7 @@
   <tr>
   <td>
   
-  <a href="mailto:stefersongustavoprogramador@gmail.com" target="_blank"><img width="50" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" /></a>
+  <a href="mailto:stefersongustavoprogramador@gmail.com" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" /></a>
   </td>
   <td>
       <strong>stefersongustavoprogramador@gmail.com</strong>
