@@ -41,5 +41,5 @@
  <a href="https://www.flaticon.com/br/icones-gratis/html">
  <img width="40" src="https://github.com/user-attachments/assets/1b78a7f0-3c5c-4c21-8a61-820d64c9d672" /></a>
  <a href="https://www.flaticon.com/br/icones-gratis/html">
-  <img width="40" src=[https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"](https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000)" /></a>
+  <img width="40" src=https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" /></a>
 </p>
