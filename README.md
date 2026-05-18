@@ -21,7 +21,7 @@
 <h2 align="center">Ferramentas de Escritorio</h2>
 
 <p align="center">
-  <a href="https://www.flaticon.com/br/icones-gratis/html">
+  href="https://www.flaticon.com/br/icones-gratis/html"
   <img width="40" src="https://github.com/user-attachments/assets/0e8ebbf2-9c3a-437a-9f02-d6130f93c883" /></a>
   
   <a href="https://www.flaticon.com/br/icones-gratis/html">
